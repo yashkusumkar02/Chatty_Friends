@@ -1,6 +1,6 @@
 # Chatty_Friends
 
- # # Features of App:
+ ## Features of App:
 •	NO need to buy an external server/host plan, you can deploy it to Firebase Servers
 
 •	App Intro and Take a Tour
