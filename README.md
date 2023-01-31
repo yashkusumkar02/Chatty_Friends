@@ -1,4 +1,5 @@
 # Chatty_Friends
+![portfolio1](https://user-images.githubusercontent.com/87336351/215774481-8b683f27-282d-4114-b42b-09586ce7c45b.png)
 
  ## Features of App:
 •	NO need to buy an external server/host plan, you can deploy it to Firebase Servers
